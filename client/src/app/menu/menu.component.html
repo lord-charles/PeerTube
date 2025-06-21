@@ -20,8 +20,7 @@
 
       <div class="main-menu">
         <div class="mobile-controls">
-          <span class="icon-logo"></span>
-
+          <img src="https://res.cloudinary.com/dn3q6mcwp/image/upload/v1750524723/shaf/shaf-app-icon_cfacwu.png" alt="shaf" width="36" height="36">
           <my-button rounded="true" icon="cross" theme="tertiary" (click)="toggleMenu()"></my-button>
         </div>
 
@@ -41,7 +40,7 @@
           <div i18n [ngClass]="{ 'visually-hidden': collapsed }" class="block-title me-2">{{ instanceName }}</div>
 
           <div [ngClass]="{ 'visually-hidden': collapsed }" class="description">{{ shortDescription }}</div>
-
+ 
           <ng-container *ngTemplateOutlet="moreInfoButton"></ng-container>
         </div>
 
