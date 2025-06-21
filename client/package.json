@@ -21,11 +21,11 @@
     "stylelint": "stylelint"
   },
   "browser": {
-    "net": false,
-    "stream": false,
-    "os": false,
-    "http": false,
     "dgram": false,
+    "http": false,
+    "net": false,
+    "os": false,
+    "stream": false,
     "util": false
   },
   "workspaces": [

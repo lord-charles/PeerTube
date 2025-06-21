@@ -480,8 +480,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="5055099158245592648" datatype="html">
-        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a (click)=&quot;markAsRead(notification)&quot; [href]=&quot;notification.peertubeVersionLink&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;"/>A new version of PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> is available: <x id="INTERPOLATION" equiv-text="{{ notification.peertube.latestVersion }}"/> </source>
-        <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a (click)=&quot;markAsRead(notification)&quot; [href]=&quot;notification.peertubeVersionLink&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>有新的版本：<x id="INTERPOLATION" equiv-text="{{ notification.peertube.latestVersion }}"/> </target>
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a (click)=&quot;markAsRead(notification)&quot; [href]=&quot;notification.peertubeVersionLink&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;"/>A new version of ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> is available: <x id="INTERPOLATION" equiv-text="{{ notification.peertube.latestVersion }}"/> </source>
+        <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a (click)=&quot;markAsRead(notification)&quot; [href]=&quot;notification.peertubeVersionLink&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferer&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>有新的版本：<x id="INTERPOLATION" equiv-text="{{ notification.peertube.latestVersion }}"/> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/standalone-notifications/user-notifications.component.html</context>
           <context context-type="linenumber">208</context>
@@ -584,16 +584,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7235777177623270068" datatype="html" xml:space="preserve">
-        <source>PeerTube considers video "<x id="PH" equiv-text="video.name"/>" is already being transcoded.</source>
-        <target state="translated">PeerTube 认为视频 "<x id="PH" equiv-text="video.name"/>" 已经转码成功.</target>
+        <source>ShafDB considers video "<x id="PH" equiv-text="video.name"/>" is already being transcoded.</source>
+        <target state="translated">ShafDB 认为视频 "<x id="PH" equiv-text="video.name"/>" 已经转码成功.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video/video.service.ts</context>
           <context context-type="linenumber">409</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5630101530611188113" datatype="html">
-        <source>If you think PeerTube is wrong (video in broken state after a crash etc.), you can force transcoding on this video.</source>
-        <target state="translated">如果您认为 PeerTube 错误（崩溃后视频处于损坏状态等），您可以强制对该视频进行转码。</target>
+        <source>If you think ShafDB is wrong (video in broken state after a crash etc.), you can force transcoding on this video.</source>
+        <target state="translated">如果您认为 ShafDB 错误（崩溃后视频处于损坏状态等），您可以强制对该视频进行转码。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video/video.service.ts</context>
           <context context-type="linenumber">411</context>
@@ -1802,24 +1802,24 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6462281745850371027" datatype="html">
-        <source>You can subscribe to the channel via any ActivityPub-capable fediverse instance (PeerTube, Mastodon or Pleroma for example).</source>
-        <target state="translated">你可以通过任何支持 activitypub 的实例（例如 PeerTube、Mastodon 或 Pleroma）订阅该频道。</target>
+        <source>You can subscribe to the channel via any ActivityPub-capable fediverse instance (ShafDB, Mastodon or Pleroma for example).</source>
+        <target state="translated">你可以通过任何支持 activitypub 的实例（例如 ShafDB、Mastodon 或 Pleroma）订阅该频道。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-subscription/remote-subscribe.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="20374890400263257" datatype="html">
-        <source>You can interact with this via any ActivityPub-capable fediverse instance (PeerTube, Mastodon or Pleroma for example).</source>
-        <target state="translated">你可以通过任何支持 activitypub 的实例（例如 PeerTube、Mastodon 或 Pleroma）与其进行交互。</target>
+        <source>You can interact with this via any ActivityPub-capable fediverse instance (ShafDB, Mastodon or Pleroma for example).</source>
+        <target state="translated">你可以通过任何支持 activitypub 的实例（例如 ShafDB、Mastodon 或 Pleroma）与其进行交互。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-subscription/remote-subscribe.component.html</context>
           <context context-type="linenumber">25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6751395526297887552" datatype="html">
-        <source>PeerTube version</source>
-        <target state="translated">PeerTube 版本</target>
+        <source>ShafDB version</source>
+        <target state="translated">ShafDB 版本</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-instance/instance-features-table.component.html</context>
           <context context-type="linenumber">6</context>
@@ -2270,8 +2270,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4301908502265861759" datatype="html" xml:space="preserve">
-        <source>This platform is powered by PeerTube</source>
-        <target state="translated">该平台由 PeerTube 提供支持</target>
+        <source>This platform is powered by ShafDB</source>
+        <target state="translated">该平台由 ShafDB 提供支持</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">3,4</context>
@@ -2614,16 +2614,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6584143415159913044" datatype="html" xml:space="preserve">
-        <source>This instance allows registration. However, be careful to check the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href='#'&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> before creating an account. You may also search for another instance to match your exact needs at: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://joinpeertube.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">此实例允许注册。但是在创建账户前请注意检查<x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href='#'&gt;"/>条款<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>条款<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>。你也可以在下面的网站中搜索符合你具体需求的其他实例：<x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://joinpeertube.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>。 </target>
+        <source>This instance allows registration. However, be careful to check the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href='#'&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> before creating an account. You may also search for another instance to match your exact needs at: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://shelterafrique.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">此实例允许注册。但是在创建账户前请注意检查<x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href='#'&gt;"/>条款<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>条款<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>。你也可以在下面的网站中搜索符合你具体需求的其他实例：<x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://shelterafrique.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+login/login.component.html</context>
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="921088049695906924" datatype="html" xml:space="preserve">
-        <source>Currently this instance doesn't allow for user registration, you may check the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor d-inline&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href=&quot;/about/instance#terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> for more details or find an instance that gives you the possibility to sign up for an account and upload your videos there. Find yours among multiple instances at: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://joinpeertube.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">目前该实例不允许用户注册，您可以检查 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor d-inline&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href=&quot;/about/instance#terms&quot;&gt;"/>条款<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>条款<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 了解更多详情，或查找允许您注册账户并上传视频的实例。在以下多个实例中找到您的实例： <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://joinpeertube.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source>Currently this instance doesn't allow for user registration, you may check the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor d-inline&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href=&quot;/about/instance#terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> for more details or find an instance that gives you the possibility to sign up for an account and upload your videos there. Find yours among multiple instances at: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://shelterafrique.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">目前该实例不允许用户注册，您可以检查 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor d-inline&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href=&quot;/about/instance#terms&quot;&gt;"/>条款<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>条款<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 了解更多详情，或查找允许您注册账户并上传视频的实例。在以下多个实例中找到您的实例： <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://shelterafrique.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+login/login.component.html</context>
           <context context-type="linenumber">18</context>
@@ -2646,8 +2646,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="87327320394367488" datatype="html">
-        <source>We are sorry, you cannot recover your password because your instance administrator did not configure the PeerTube email system.</source>
-        <target state="translated">对不起，你无法恢复你的密码，因为你的实例管理员没有配置 PeerTube 电子邮件系统。</target>
+        <source>We are sorry, you cannot recover your password because your instance administrator did not configure the ShafDB email system.</source>
+        <target state="translated">对不起，你无法恢复你的密码，因为你的实例管理员没有配置 ShafDB 电子邮件系统。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+login/login.component.html</context>
           <context context-type="linenumber">127</context>
@@ -2829,8 +2829,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="7772973173091400795" datatype="html">
-        <source><x id="INTERPOLATION" equiv-text="{{ instanceName }}"/> has been created using <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://joinpeertube.org&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, a video creation platform developed by Framasoft. <x id="START_LINK_1" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://framasoft.org&quot;&gt;"/>Framasoft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> is a french non-profit organization that offers alternatives to Big Tech's digital tools </source>
-        <target state="translated"><x id="INTERPOLATION" equiv-text="{{ instanceName }}"/> 的创建使用了 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://joinpeertube.org&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>，一个由 Framasoft 开发的视频创作平台。<x id="START_LINK_1" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://framasoft.org&quot;&gt;"/>Framasoft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 是个法国的非盈利组织，提供科技巨头数字工具的替代品 </target>
+        <source><x id="INTERPOLATION" equiv-text="{{ instanceName }}"/> has been created using <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://shelterafrique.org&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, a video creation platform developed by Framasoft. <x id="START_LINK_1" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://framasoft.org&quot;&gt;"/>Framasoft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> is a french non-profit organization that offers alternatives to Big Tech's digital tools </source>
+        <target state="translated"><x id="INTERPOLATION" equiv-text="{{ instanceName }}"/> 的创建使用了 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://shelterafrique.org&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>，一个由 Framasoft 开发的视频创作平台。<x id="START_LINK_1" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://framasoft.org&quot;&gt;"/>Framasoft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 是个法国的非盈利组织，提供科技巨头数字工具的替代品 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/+register/steps/register-step-about.component.html</context>
           <context context-type="linenumber">43</context>
@@ -2877,8 +2877,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="1516969129397662377" datatype="html">
-        <source>Welcome to PeerTube, dear administrator!</source>
-        <target state="translated">欢迎来到 PeerTube，尊敬的管理员！</target>
+        <source>Welcome to ShafDB, dear administrator!</source>
+        <target state="translated">欢迎来到 ShafDB，尊敬的管理员！</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/admin-welcome-modal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -2965,16 +2965,16 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="3109023679137193515" datatype="html" xml:space="preserve">
-        <source>Official PeerTube website (news, support, contribute...): <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://joinpeertube.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">官方 PeerTube 网站 (新闻, 支持, 贡献...): <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://joinpeertube.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <source>Official ShafDB website (news, support, contribute...): <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://shelterafrique.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">官方 ShafDB 网站 (新闻, 支持, 贡献...): <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://shelterafrique.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/admin-welcome-modal.component.html</context>
           <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="647900782867860768" datatype="html" xml:space="preserve">
-        <source>Put your instance on the public PeerTube index: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://instances.joinpeertube.org/instances&quot;&gt;"/>https://instances.joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">将您的实例放在公共 PeerTube 索引上： <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://instances.joinpeertube.org/instances&quot;&gt;"/>https://instances.joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <source>Put your instance on the public ShafDB index: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://instances.joinpeertube.org/instances&quot;&gt;"/>https://instances.joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">将您的实例放在公共 ShafDB 索引上： <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://instances.joinpeertube.org/instances&quot;&gt;"/>https://instances.joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/admin-welcome-modal.component.html</context>
           <context context-type="linenumber">46</context>
@@ -2997,8 +2997,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5329436244765769292" datatype="html">
-        <source>If you want to open registrations, please decide what <x id="START_TAG_STRONG"/>your moderation rules<x id="CLOSE_TAG_STRONG"/> and <x id="START_TAG_STRONG"/>instance terms of service<x id="CLOSE_TAG_STRONG"/> are, as well as specify the categories and languages and your moderators speak. This way, you will help users to register on <x id="START_TAG_STRONG"/>the appropriate<x id="CLOSE_TAG_STRONG"/> PeerTube instance. </source>
-        <target state="translated">如果你想开放注册，请决定 <x id="START_TAG_STRONG"/>你的管理规则<x id="CLOSE_TAG_STRONG"/> 与 <x id="START_TAG_STRONG"/>实例服务条款<x id="CLOSE_TAG_STRONG"/>，以及指定类别和语言和你管理员要说的话。这样，你就可以帮助用户注册 <x id="START_TAG_STRONG"/>适合的<x id="CLOSE_TAG_STRONG"/> PeerTube 实例。 </target>
+        <source>If you want to open registrations, please decide what <x id="START_TAG_STRONG"/>your moderation rules<x id="CLOSE_TAG_STRONG"/> and <x id="START_TAG_STRONG"/>instance terms of service<x id="CLOSE_TAG_STRONG"/> are, as well as specify the categories and languages and your moderators speak. This way, you will help users to register on <x id="START_TAG_STRONG"/>the appropriate<x id="CLOSE_TAG_STRONG"/> ShafDB instance. </source>
+        <target state="translated">如果你想开放注册，请决定 <x id="START_TAG_STRONG"/>你的管理规则<x id="CLOSE_TAG_STRONG"/> 与 <x id="START_TAG_STRONG"/>实例服务条款<x id="CLOSE_TAG_STRONG"/>，以及指定类别和语言和你管理员要说的话。这样，你就可以帮助用户注册 <x id="START_TAG_STRONG"/>适合的<x id="CLOSE_TAG_STRONG"/> ShafDB 实例。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/admin-welcome-modal.component.html</context>
           <context context-type="linenumber">65</context>
@@ -3133,8 +3133,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5330788940795142335" datatype="html">
-        <source>Please consider configuring these fields to help people to choose <x id="START_TAG_STRONG"/>the appropriate instance<x id="CLOSE_TAG_STRONG"/>. Without them, your instance may not be referenced on the <x id="START_LINK"/>JoinPeerTube website<x id="CLOSE_LINK"/>. </source>
-        <target state="translated">请考虑配置这些字段以帮助人们进行选择 <x id="START_TAG_STRONG"/>适当的实例<x id="CLOSE_TAG_STRONG"/>。缺少这些，你的实例可能不会引用在 <x id="START_LINK"/>JoinPeerTube 网站<x id="CLOSE_LINK"/> 上。 </target>
+        <source>Please consider configuring these fields to help people to choose <x id="START_TAG_STRONG"/>the appropriate instance<x id="CLOSE_TAG_STRONG"/>. Without them, your instance may not be referenced on the <x id="START_LINK"/>JoinShafDB website<x id="CLOSE_LINK"/>. </source>
+        <target state="translated">请考虑配置这些字段以帮助人们进行选择 <x id="START_TAG_STRONG"/>适当的实例<x id="CLOSE_TAG_STRONG"/>。缺少这些，你的实例可能不会引用在 <x id="START_LINK"/>JoinShafDB 网站<x id="CLOSE_LINK"/> 上。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/instance-config-warning-modal.component.html</context>
           <context context-type="linenumber">27</context>
@@ -3253,9 +3253,9 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2964653499524716819">
-        <source>Help to translate PeerTube!</source>
+        <source>Help to translate ShafDB!</source>
         <target>
-    帮我们翻译 PeerTube！
+    帮我们翻译 ShafDB！
   </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/menu/language-chooser.component.html</context>
@@ -3291,8 +3291,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="3433184700415677129" datatype="html" xml:space="preserve">
-        <source>Platform powered by <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;&quot; href=&quot;https://joinpeertube.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">平台由 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;&quot; href=&quot;https://joinpeertube.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 提供支持</target>
+        <source>Platform powered by <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;&quot; href=&quot;https://shelterafrique.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">平台由 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;&quot; href=&quot;https://shelterafrique.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 提供支持</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/menu/menu.component.html</context>
           <context context-type="linenumber">100</context>
@@ -3415,8 +3415,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2184839376696112704" datatype="html">
-        <source>allows to import multiple videos in parallel. ⚠️ Requires a PeerTube restart.</source>
-        <target state="translated">允许并行导入多个视频。⚠️ 需要重新启动 PeerTube。</target>
+        <source>allows to import multiple videos in parallel. ⚠️ Requires a ShafDB restart.</source>
+        <target state="translated">允许并行导入多个视频。⚠️ 需要重新启动 ShafDB。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">277</context>
@@ -3443,8 +3443,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2095604754338363597" datatype="html">
-        <source>⚠️ If enabled, we recommend to use <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>a HTTP proxy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to prevent private URL access from your PeerTube server</source>
-        <target state="translated">⚠️ 如果启用，我们建议使用 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/> HTTP 代理<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>以阻止来自你的 PeerTube 服务器的私人 URL 访问</target>
+        <source>⚠️ If enabled, we recommend to use <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>a HTTP proxy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to prevent private URL access from your ShafDB server</source>
+        <target state="translated">⚠️ 如果启用，我们建议使用 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/> HTTP 代理<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>以阻止来自你的 ShafDB 服务器的私人 URL 访问</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">293</context>
@@ -4130,8 +4130,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5143793904897598509" datatype="html">
-        <source>PeerTube instance host</source>
-        <target state="translated">PeerTube 实例主机</target>
+        <source>ShafDB instance host</source>
+        <target state="translated">ShafDB 实例主机</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+search/search-filters.component.html</context>
           <context context-type="linenumber">159</context>
@@ -4456,8 +4456,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="3171444589366264129" datatype="html" xml:space="preserve">
-        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>Markdown compatible<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> that also supports <x id="START_LINK_1" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://docs.joinpeertube.org/api/custom-client-markup&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>custom PeerTube HTML tags<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>兼容 Markdown 的<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 也支持<x id="START_LINK_1" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://docs.joinpeertube.org/api/custom-client-markup&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>自定义 PeerTube HTML 标记<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 。 </target>
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>Markdown compatible<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> that also supports <x id="START_LINK_1" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://docs.joinpeertube.org/api/custom-client-markup&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>custom ShafDB HTML tags<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>兼容 Markdown 的<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 也支持<x id="START_LINK_1" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://docs.joinpeertube.org/api/custom-client-markup&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>自定义 ShafDB HTML 标记<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-custom-markup/custom-markup-help.component.html</context>
           <context context-type="linenumber">2,3</context>
@@ -4926,8 +4926,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5153270828945387960" datatype="html" xml:space="preserve">
-        <source>Chapters can also be set in the video description. Check the format <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/create-upload-video#chapters&quot; target=&quot;_blank&quot;&gt;"/>in the PeerTube documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">视频说明中还可以设置章节。在 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/create-upload-video#chapters&quot; target=&quot;_blank&quot;&gt;"/>PeerTube 文档<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 上查看格式</target>
+        <source>Chapters can also be set in the video description. Check the format <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/create-upload-video#chapters&quot; target=&quot;_blank&quot;&gt;"/>in the ShafDB documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">视频说明中还可以设置章节。在 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/create-upload-video#chapters&quot; target=&quot;_blank&quot;&gt;"/>ShafDB 文档<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> 上查看格式</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/chapters/video-chapters.component.html</context>
           <context context-type="linenumber">14</context>
@@ -6231,8 +6231,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="805456636864344681" datatype="html">
-        <source>Display PeerTube button link</source>
-        <target state="translated">显示 PeerTube 按钮链接</target>
+        <source>Display ShafDB button link</source>
+        <target state="translated">显示 ShafDB 按钮链接</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-share-modal/video-share.component.html</context>
           <context context-type="linenumber">290</context>
@@ -6811,8 +6811,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="7508177761852352782" datatype="html">
-        <source>You can comment using an account on any ActivityPub-compatible instance (PeerTube/Mastodon/Pleroma account for example).</source>
-        <target state="translated">你可以使用任何支持 ActivityPub 的实例上的帐号（如 PeerTube/Mastodon/Pleroma 帐号）进行评论。</target>
+        <source>You can comment using an account on any ActivityPub-compatible instance (ShafDB/Mastodon/Pleroma account for example).</source>
+        <target state="translated">你可以使用任何支持 ActivityPub 的实例上的帐号（如 ShafDB/Mastodon/Pleroma 帐号）进行评论。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+video-watch/shared/comment/video-comment-add.component.html</context>
           <context context-type="linenumber">70</context>
@@ -7099,8 +7099,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="896330674868470367" datatype="html" xml:space="preserve">
-        <source>A directory containing an export in custom PeerTube JSON format that can be used to re-import your account on another PeerTube instance</source>
-        <target state="translated">包含自定义 PeerTube JSON 格式导出的目录，可用于在另一个 PeerTube 实例上重新导入你的账户</target>
+        <source>A directory containing an export in custom ShafDB JSON format that can be used to re-import your account on another ShafDB instance</source>
+        <target state="translated">包含自定义 ShafDB JSON 格式导出的目录，可用于在另一个 ShafDB 实例上重新导入你的账户</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-export.component.html</context>
           <context context-type="linenumber">29</context>
@@ -8931,8 +8931,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="7186771264833643704" datatype="html" xml:space="preserve">
-        <source>This plugin is developed by Framasoft, the not-for-profit that develops PeerTube</source>
-        <target state="translated">该插件由开发 PeerTube 的非营利组织 Framasoft 开发</target>
+        <source>This plugin is developed by Framasoft, the not-for-profit that develops ShafDB</source>
+        <target state="translated">该插件由开发 ShafDB 的非营利组织 Framasoft 开发</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/plugins/plugin-search/plugin-search.component.html</context>
           <context context-type="linenumber">45</context>
@@ -8947,8 +8947,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5976946399792378437" datatype="html" xml:space="preserve">
-        <source>This plugin is recommended by Framasoft, the not-for-profit that develops PeerTube</source>
-        <target state="translated">此插件由开发 PeerTube 的非营利组织 Framasoft 推荐</target>
+        <source>This plugin is recommended by Framasoft, the not-for-profit that develops ShafDB</source>
+        <target state="translated">此插件由开发 ShafDB 的非营利组织 Framasoft 推荐</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/plugins/plugin-search/plugin-search.component.html</context>
           <context context-type="linenumber">50</context>
@@ -9461,8 +9461,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="6614390687854488723" datatype="html" xml:space="preserve">
-        <source>It can also be displayed on external websites to promote your instance, such as <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot;  href=&quot;https://joinpeertube.org/instances&quot;&gt;"/>JoinPeerTube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
-        <target state="translated">它还可以显示在外部网站上以推广您的实例，例如 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot;  href=&quot;https://joinpeertube.org/instances&quot;&gt;"/>JoinPeerTube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>。</target>
+        <source>It can also be displayed on external websites to promote your instance, such as <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot;  href=&quot;https://shelterafrique.org/instances&quot;&gt;"/>JoinShafDB.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <target state="translated">它还可以显示在外部网站上以推广您的实例，例如 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot;  href=&quot;https://shelterafrique.org/instances&quot;&gt;"/>JoinShafDB.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-instance-information.component.html</context>
           <context context-type="linenumber">30</context>
@@ -9765,8 +9765,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="8362291348781958428" datatype="html">
-        <source>How will you finance the PeerTube server?</source>
-        <target state="translated">你将如何为 PeerTube 服务器提供资金？</target>
+        <source>How will you finance the ShafDB server?</source>
+        <target state="translated">你将如何为 ShafDB 服务器提供资金？</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-instance-information.component.html</context>
           <context context-type="linenumber">280</context>
@@ -10465,8 +10465,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="3112747752460656486" datatype="html" xml:space="preserve">
-        <source>Video quota (daily quota is not taken into account) is also checked for each video when PeerTube is processing the import</source>
-        <target state="translated">PeerTube 在处理导入时也会检查每个视频的视频配额（不考虑每日配额）</target>
+        <source>Video quota (daily quota is not taken into account) is also checked for each video when ShafDB is processing the import</source>
+        <target state="translated">ShafDB 在处理导入时也会检查每个视频的视频配额（不考虑每日配额）</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">544</context>
@@ -10481,8 +10481,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="74636758368624456" datatype="html" xml:space="preserve">
-        <source>Users can export their PeerTube data in a .zip for backup or re-import. Only one export at a time is allowed per user</source>
-        <target state="translated">用户可以将 PeerTube 数据导出为 .zip 文件进行备份或重新导入。每个用户每次只能导出一次</target>
+        <source>Users can export their ShafDB data in a .zip for backup or re-import. Only one export at a time is allowed per user</source>
+        <target state="translated">用户可以将 ShafDB 数据导出为 .zip 文件进行备份或重新导入。每个用户每次只能导出一次</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">561</context>
@@ -10681,8 +10681,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="8113899484555907381" datatype="html" xml:space="preserve">
-        <source>This is just an extra information injected in PeerTube HTML that is required by Twitter/X. If you don't have a Twitter/X account, just leave the default value.</source>
-        <target state="translated">这只是 Twitter/X 所需的 PeerTube HTML 中注入的额外信息。如果您没有 Twitter/X 账户，请保留默认值。</target>
+        <source>This is just an extra information injected in ShafDB HTML that is required by Twitter/X. If you don't have a Twitter/X account, just leave the default value.</source>
+        <target state="translated">这只是 Twitter/X 所需的 ShafDB HTML 中注入的额外信息。如果您没有 Twitter/X 账户，请保留默认值。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">729</context>
@@ -10873,8 +10873,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="8294583621306221742" datatype="html">
-        <source>new live transcoding profiles can be added by PeerTube plugins</source>
-        <target state="translated">可以通过 PeerTube 插件添加新的直播转换配置文件</target>
+        <source>new live transcoding profiles can be added by ShafDB plugins</source>
+        <target state="translated">可以通过 ShafDB 插件添加新的直播转换配置文件</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-live-configuration.component.html</context>
           <context context-type="linenumber">201</context>
@@ -11133,8 +11133,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="443904340561625146" datatype="html" xml:space="preserve">
-        <source>If enabled, remote PeerTube instances &lt; 6.3.0 won't be able to play these videos</source>
-        <target state="translated">如果启用，远程 PeerTube 实例 &lt; 6.3.0 将无法播放这些视频</target>
+        <source>If enabled, remote ShafDB instances &lt; 6.3.0 won't be able to play these videos</source>
+        <target state="translated">如果启用，远程 ShafDB 实例 &lt; 6.3.0 将无法播放这些视频</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">128</context>
@@ -11237,8 +11237,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="1969393594784140832" datatype="html">
-        <source>allows to transcode multiple files in parallel. ⚠️ Requires a PeerTube restart</source>
-        <target state="translated">允许同时转换多个文件。⚠️ 需要重新启动 PeerTube</target>
+        <source>allows to transcode multiple files in parallel. ⚠️ Requires a ShafDB restart</source>
+        <target state="translated">允许同时转换多个文件。⚠️ 需要重新启动 ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">228</context>
@@ -11253,8 +11253,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="6289966287765074028" datatype="html">
-        <source>new transcoding profiles can be added by PeerTube plugins</source>
-        <target state="translated">可以通过 PeerTube 插件添加新的转码配置文件</target>
+        <source>new transcoding profiles can be added by ShafDB plugins</source>
+        <target state="translated">可以通过 ShafDB 插件添加新的转码配置文件</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">240</context>
@@ -11413,8 +11413,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="1714039296068260295" datatype="html">
-        <source>Slight modifications to your PeerTube instance for when creating a plugin or theme is overkill.</source>
-        <target state="translated">在创建插件或主题时微调你的 PeerTube 实例。</target>
+        <source>Slight modifications to your ShafDB instance for when creating a plugin or theme is overkill.</source>
+        <target state="translated">在创建插件或主题时微调你的 ShafDB 实例。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-advanced-configuration.component.html</context>
           <context context-type="linenumber">79</context>
@@ -11905,8 +11905,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="8534731544752464794" datatype="html" xml:space="preserve">
-        <source>PeerTube uses this setting to explain to your users which law they must follow in the "About" pages</source>
-        <target state="translated">PeerTube 使用此设置在“关于”页面中向用户解释他们必须遵守哪些法律</target>
+        <source>ShafDB uses this setting to explain to your users which law they must follow in the "About" pages</source>
+        <target state="translated">ShafDB 使用此设置在“关于”页面中向用户解释他们必须遵守哪些法律</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-instance-information.component.html</context>
           <context context-type="linenumber">104,106</context>
@@ -11937,8 +11937,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="3532587780731641584" datatype="html" xml:space="preserve">
-        <source>Explain to your users how to support your platform. If set, PeerTube will display a "Support" button in "About" instance pages</source>
-        <target state="translated">向您的用户解释如何支持您的平台。如果设置，PeerTube 将在“关于”实例页面中显示“支持”按钮</target>
+        <source>Explain to your users how to support your platform. If set, ShafDB will display a "Support" button in "About" instance pages</source>
+        <target state="translated">向您的用户解释如何支持您的平台。如果设置，ShafDB 将在“关于”实例页面中显示“支持”按钮</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-instance-information.component.html</context>
           <context context-type="linenumber">129,131</context>
@@ -12666,8 +12666,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2427149618141327033" datatype="html">
-        <source>Browse videos on PeerTube to add them in your playlist.</source>
-        <target state="translated">在 PeerTube 上浏览视频，把它们添加到你的播放列表中。</target>
+        <source>Browse videos on ShafDB to add them in your playlist.</source>
+        <target state="translated">在 ShafDB 上浏览视频，把它们添加到你的播放列表中。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/my-video-playlists/my-video-playlist-elements.component.html</context>
           <context context-type="linenumber">26</context>
@@ -13010,8 +13010,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2448802938372065840" datatype="html" xml:space="preserve">
-        <source>If you need help using PeerTube, you can have a look at the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use/setup-account&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">如果你需要使用 PeerTube 的帮助，你可以看看 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use/setup-account&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>文档<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source>If you need help using ShafDB, you can have a look at the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use/setup-account&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">如果你需要使用 ShafDB 的帮助，你可以看看 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use/setup-account&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>文档<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/shared/signup-success-after-email.component.html</context>
           <context context-type="linenumber">16</context>
@@ -13346,8 +13346,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5066829276646988805">
-        <source>PeerTube</source>
-        <target>PeerTube</target>
+        <source>ShafDB</source>
+        <target>ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about.component.ts</context>
           <context context-type="linenumber">47</context>
@@ -13538,8 +13538,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="1161141363959659794" datatype="html">
-        <source>PeerTube is a self-hosted ActivityPub-federated video streaming platform using P2P directly in your web browser.</source>
-        <target state="translated">PeerTube 是一个自我托管的 ActivityPub 联邦视频串流平台，直接在你的网页浏览器中使用对等网络（P2P）。</target>
+        <source>ShafDB is a self-hosted ActivityPub-federated video streaming platform using P2P directly in your web browser.</source>
+        <target state="translated">ShafDB 是一个自我托管的 ActivityPub 联邦视频串流平台，直接在你的网页浏览器中使用对等网络（P2P）。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">10</context>
@@ -13562,8 +13562,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="8205344394429673413" datatype="html">
-        <source>Use PeerTube documentation</source>
-        <target state="translated">使用 PeerTube 文档</target>
+        <source>Use ShafDB documentation</source>
+        <target state="translated">使用 ShafDB 文档</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">28</context>
@@ -13578,8 +13578,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5336387229608682776" datatype="html">
-        <source>PeerTube Applications</source>
-        <target state="translated">PeerTube 应用程序</target>
+        <source>ShafDB Applications</source>
+        <target state="translated">ShafDB 应用程序</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">40</context>
@@ -13594,16 +13594,16 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="4093735071527927163" datatype="html">
-        <source>Contribute on PeerTube</source>
-        <target state="translated">为 PeerTube 做贡献</target>
+        <source>Contribute on ShafDB</source>
+        <target state="translated">为 ShafDB 做贡献</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6886584917624458638" datatype="html">
-        <source>Want to help to improve PeerTube? You can translate the web interface, give your feedback or directly contribute to the code!</source>
-        <target state="translated">想帮助改进 PeerTube 吗？你可以翻译网页界面，提供反馈或直接贡献代码！</target>
+        <source>Want to help to improve ShafDB? You can translate the web interface, give your feedback or directly contribute to the code!</source>
+        <target state="translated">想帮助改进 ShafDB 吗？你可以翻译网页界面，提供反馈或直接贡献代码！</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">56</context>
@@ -13706,8 +13706,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="8773846522957677259" datatype="html">
-        <source>About PeerTube</source>
-        <target state="translated">关于 PeerTube</target>
+        <source>About ShafDB</source>
+        <target state="translated">关于 ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/routes.ts</context>
           <context context-type="linenumber">34</context>
@@ -13858,8 +13858,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="220345070199640496" xml:space="preserve">
-        <source>PeerTube is creating your account...</source>
-        <target state="translated">PeerTube 正在创建你的账户……</target>
+        <source>ShafDB is creating your account...</source>
+        <target state="translated">ShafDB 正在创建你的账户……</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/+register/register.component.html</context>
           <context context-type="linenumber">108</context>
@@ -14518,8 +14518,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5508725342419733476" datatype="html" xml:space="preserve">
-        <source>"Split audio and video" must be enabled for the PeerTube player to propose an "Audio only" resolution to users</source>
-        <target state="translated">必须启用“分离音频和视频”，PeerTube 播放器才能向用户推荐“仅音频”分辨率</target>
+        <source>"Split audio and video" must be enabled for the ShafDB player to propose an "Audio only" resolution to users</source>
+        <target state="translated">必须启用“分离音频和视频”，ShafDB 播放器才能向用户推荐“仅音频”分辨率</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-configuration.service.ts</context>
           <context context-type="linenumber">20</context>
@@ -14658,8 +14658,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="1473738049081128420" datatype="html">
-        <source>Estimating a server's capacity to transcode and stream videos isn't easy and we can't tune PeerTube automatically.</source>
-        <target state="translated">估计服务器转码和串流视频的能力并不简单，所以我们无法自动调整 PeerTube。</target>
+        <source>Estimating a server's capacity to transcode and stream videos isn't easy and we can't tune ShafDB automatically.</source>
+        <target state="translated">估计服务器转码和串流视频的能力并不简单，所以我们无法自动调整 ShafDB。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">9</context>
@@ -14674,8 +14674,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2384409178337534505" datatype="html">
-        <source>Process uploaded videos so that they are in a streamable form that any device can play. Though costly in resources, this is a critical part of PeerTube, so tread carefully.</source>
-        <target state="translated">处理上传的视频，使其成为任何设备都可以播放的流媒体形式。 尽管资源成本很高，但这是 PeerTube 的关键部分，因此请谨慎设置。</target>
+        <source>Process uploaded videos so that they are in a streamable form that any device can play. Though costly in resources, this is a critical part of ShafDB, so tread carefully.</source>
+        <target state="translated">处理上传的视频，使其成为任何设备都可以播放的流媒体形式。 尽管资源成本很高，但这是 ShafDB 的关键部分，因此请谨慎设置。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">26</context>
@@ -15825,8 +15825,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="7223931053738621590" datatype="html">
-        <source>PeerTube thinks your web browser public IP is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ debug?.ip }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
-        <target state="translated">PeerTube 认为你的网页浏览器的公共 IP 为 <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ debug?.ip }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>。</target>
+        <source>ShafDB thinks your web browser public IP is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ debug?.ip }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <target state="translated">ShafDB 认为你的网页浏览器的公共 IP 为 <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ debug?.ip }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/system/debug/debug.component.html</context>
           <context context-type="linenumber">3</context>
@@ -16053,8 +16053,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="4012645514712660678" datatype="html" xml:space="preserve">
-        <source>PeerTube selects the appropriate theme depending on web browser preferences</source>
-        <target state="translated">PeerTube 根据网络浏览器偏好选择适当的主题</target>
+        <source>ShafDB selects the appropriate theme depending on web browser preferences</source>
+        <target state="translated">ShafDB 根据网络浏览器偏好选择适当的主题</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/core/theme/theme.service.ts</context>
           <context context-type="linenumber">53</context>
@@ -16377,8 +16377,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="6252848909934071768" datatype="html" xml:space="preserve">
-        <source>Emails are not enabled on this instance so PeerTube won't be able to send an email to <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> explaining its account has been created. </source>
-        <target state="translated">此实例未启用电子邮件，因此 PeerTube 无法向以下对象发送电子邮件： <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> 解释其账户已创建。 </target>
+        <source>Emails are not enabled on this instance so ShafDB won't be able to send an email to <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> explaining its account has been created. </source>
+        <target state="translated">此实例未启用电子邮件，因此 ShafDB 无法向以下对象发送电子邮件： <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> 解释其账户已创建。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/moderation/registration-list/process-registration-modal.component.html</context>
           <context context-type="linenumber">31</context>
@@ -16393,8 +16393,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2693506849974732500" datatype="html" xml:space="preserve">
-        <source>Emails are not enabled on this instance so PeerTube won't be able to send an email to <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> explaining its registration request has been rejected. </source>
-        <target state="translated">此实例未启用电子邮件，因此 PeerTube 无法向以下对象发送电子邮件： <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> 解释其注册请求被拒绝。 </target>
+        <source>Emails are not enabled on this instance so ShafDB won't be able to send an email to <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> explaining its registration request has been rejected. </source>
+        <target state="translated">此实例未启用电子邮件，因此 ShafDB 无法向以下对象发送电子邮件： <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> 解释其注册请求被拒绝。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/moderation/registration-list/process-registration-modal.component.html</context>
           <context context-type="linenumber">41</context>
@@ -17181,8 +17181,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2764971902180889905" datatype="html">
-        <source>A new PeerTube version is available</source>
-        <target state="translated">PeerTube 版本有新的版本可用</target>
+        <source>A new ShafDB version is available</source>
+        <target state="translated">ShafDB 版本有新的版本可用</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-notification-preferences/my-account-notification-preferences.component.ts</context>
           <context context-type="linenumber">108</context>
@@ -18314,8 +18314,8 @@ The link will expire within 1 hour.</source>
       </trans-unit>
       <trans-unit id="2013324644839511073" datatype="html">
         <source>Cannot retrieve OAuth Client credentials: <x id="PH" equiv-text="err.message"/>.
-Ensure you have correctly configured PeerTube (config/ directory), in particular the "webserver" section.</source>
-        <target state="translated">无法检索 OAuth 客户端证书：<x id="PH" equiv-text="err.text"/>。确保你你已正确配置 PeerTube（config/ directory），特别是“webserver”部分。</target>
+Ensure you have correctly configured ShafDB (config/ directory), in particular the "webserver" section.</source>
+        <target state="translated">无法检索 OAuth 客户端证书：<x id="PH" equiv-text="err.text"/>。确保你你已正确配置 ShafDB（config/ directory），特别是“webserver”部分。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/core/auth/auth.service.ts</context>
           <context context-type="linenumber">102</context>
@@ -19917,8 +19917,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5637879201055173642" datatype="html">
-        <source>See <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/#/use-create-upload-video?id=publish-a-live-in-peertube-gt-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>the documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;   "/> to learn how to use the PeerTube live streaming feature. </source>
-        <target state="translated">查看 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/#/use-create-upload-video?id=publish-a-live-in-peertube-gt-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>文档<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;   "/>了解如何使用 PeerTube 直播串流功能。 </target>
+        <source>See <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/#/use-create-upload-video?id=publish-a-live-in-peertube-gt-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>the documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;   "/> to learn how to use the ShafDB live streaming feature. </source>
+        <target state="translated">查看 <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/#/use-create-upload-video?id=publish-a-live-in-peertube-gt-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>文档<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;   "/>了解如何使用 ShafDB 直播串流功能。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/live-settings/live-documentation-link.component.html</context>
           <context context-type="linenumber">2</context>
@@ -20281,8 +20281,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5604677701754367707" datatype="html">
-        <source>PeerTube cannot handle this kind of file. Accepted extensions are <x id="PH" equiv-text="this.allowedExtensionsMessage"/>.</source>
-        <target state="translated">PeerTube 无法处理此类型的文件。接受的扩展名有 <x id="PH" equiv-text="this.allowedExtensionsMessage"/>。</target>
+        <source>ShafDB cannot handle this kind of file. Accepted extensions are <x id="PH" equiv-text="this.allowedExtensionsMessage"/>.</source>
+        <target state="translated">ShafDB 无法处理此类型的文件。接受的扩展名有 <x id="PH" equiv-text="this.allowedExtensionsMessage"/>。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-forms/reactive-file.component.ts</context>
           <context context-type="linenumber">80</context>
@@ -21061,16 +21061,16 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="7919708461177482031" datatype="html" xml:space="preserve">
-        <source>PeerTube considers video "<x id="PH" equiv-text="video.name"/>" is already being transcripted.</source>
-        <target state="translated">PeerTube 考虑视频 "<x id="PH" equiv-text="video.name"/>" 已被转录。</target>
+        <source>ShafDB considers video "<x id="PH" equiv-text="video.name"/>" is already being transcripted.</source>
+        <target state="translated">ShafDB 考虑视频 "<x id="PH" equiv-text="video.name"/>" 已被转录。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video-caption/video-caption.service.ts</context>
           <context context-type="linenumber">115</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1574297288544496710" datatype="html" xml:space="preserve">
-        <source>If you think PeerTube is wrong (video in broken state after a crash etc.), you can force transcription on this video.</source>
-        <target state="translated">如果您认为 PeerTube 出现错误（如崩溃后视频处于损坏状态等），您可以强制转录该视频。</target>
+        <source>If you think ShafDB is wrong (video in broken state after a crash etc.), you can force transcription on this video.</source>
+        <target state="translated">如果您认为 ShafDB 出现错误（如崩溃后视频处于损坏状态等），您可以强制转录该视频。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video-caption/video-caption.service.ts</context>
           <context context-type="linenumber">117</context>
@@ -21953,8 +21953,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="8386580266736130510" datatype="html" xml:space="preserve">
-        <source>Including video files is required if you want to re-import your videos on another PeerTube website</source>
-        <target state="translated">如果您想在另一个 PeerTube 网站上重新导入视频，则需要包含视频文件</target>
+        <source>Including video files is required if you want to re-import your videos on another ShafDB website</source>
+        <target state="translated">如果您想在另一个 ShafDB 网站上重新导入视频，则需要包含视频文件</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-export.component.html</context>
           <context context-type="linenumber">103</context>
@@ -22005,16 +22005,16 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="4737947753130898543" datatype="html" xml:space="preserve">
-        <source>You can import an archive created by another PeerTube website.</source>
-        <target state="translated">您可以导入其他 PeerTube 网站创建的档案。</target>
+        <source>You can import an archive created by another ShafDB website.</source>
+        <target state="translated">您可以导入其他 ShafDB 网站创建的档案。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7544701838241243416" datatype="html" xml:space="preserve">
-        <source>This is an <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>import<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> tool and not a migration tool. It's the reason why data (like channels or videos) is duplicated and not moved from your previous PeerTube website. </source>
-        <target state="translated">这是一个 <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>进口<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> 工具而不是迁移工具。这就是为什么数据（如频道或视频）被复制并且没有从之前的 PeerTube 网站移动的原因。 </target>
+        <source>This is an <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>import<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> tool and not a migration tool. It's the reason why data (like channels or videos) is duplicated and not moved from your previous ShafDB website. </source>
+        <target state="translated">这是一个 <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>进口<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> 工具而不是迁移工具。这就是为什么数据（如频道或视频）被复制并且没有从之前的 ShafDB 网站移动的原因。 </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">13</context>
@@ -22125,8 +22125,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5245328363134510565" datatype="html" xml:space="preserve">
-        <source>You can't re-import an archive because you already have an import that is currently being processed by PeerTube.</source>
-        <target state="translated">您无法重新导入档案，因为您已经有一个正在由 PeerTube 处理的导入。</target>
+        <source>You can't re-import an archive because you already have an import that is currently being processed by ShafDB.</source>
+        <target state="translated">您无法重新导入档案，因为您已经有一个正在由 ShafDB 处理的导入。</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">52</context>

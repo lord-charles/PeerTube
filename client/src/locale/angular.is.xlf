@@ -860,32 +860,32 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1161141363959659794" datatype="html">
-        <source>PeerTube is a self-hosted ActivityPub-federated video streaming platform using P2P directly in your web browser.</source>
-        <target state="translated">PeerTube er sjálfhýst ActivityPub-samtengt myndskeiðastreymikerfi sem notar P2P beint í vafranum þínum.</target>
+        <source>ShafDB is a self-hosted ActivityPub-federated video streaming platform using P2P directly in your web browser.</source>
+        <target state="translated">ShafDB er sjálfhýst ActivityPub-samtengt myndskeiðastreymikerfi sem notar P2P beint í vafranum þínum.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="135286612733607700" datatype="html">
-        <source>It is free and open-source software, under <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://github.com/Chocobozzz/PeerTube/blob/develop/LICENSE&quot;&gt;"/>AGPLv3 licence<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">Þetta er frjáls hugbúnaður með opinn grunnkóða samkvæmt <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://github.com/Chocobozzz/PeerTube/blob/develop/LICENSE&quot;&gt;"/>AGPLv3 notkunarleyfi<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source>It is free and open-source software, under <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://github.com/Chocobozzz/ShafDB/blob/develop/LICENSE&quot;&gt;"/>AGPLv3 licence<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">Þetta er frjáls hugbúnaður með opinn grunnkóða samkvæmt <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://github.com/Chocobozzz/ShafDB/blob/develop/LICENSE&quot;&gt;"/>AGPLv3 notkunarleyfi<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7257048945916143687" datatype="html">
-        <source>For more information, please visit <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://joinpeertube.org&quot;&gt;"/>joinpeertube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">Til að sjá nánari upplýsingar, ættirðu að skoða <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://joinpeertube.org&quot;&gt;"/>joinpeertube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source>For more information, please visit <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://shelterafrique.org&quot;&gt;"/>joinpeertube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">Til að sjá nánari upplýsingar, ættirðu að skoða <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://shelterafrique.org&quot;&gt;"/>joinpeertube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="8205344394429673413" datatype="html">
-        <source>Use PeerTube documentation</source>
-        <target state="translated">Notaðu hjálparskjöl PeerTube</target>
+        <source>Use ShafDB documentation</source>
+        <target state="translated">Notaðu hjálparskjöl ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">28</context>
@@ -900,8 +900,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="5336387229608682776" datatype="html">
-        <source>PeerTube Applications</source>
-        <target state="translated">PeerTube-forrit</target>
+        <source>ShafDB Applications</source>
+        <target state="translated">ShafDB-forrit</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">40</context>
@@ -916,16 +916,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="4093735071527927163" datatype="html">
-        <source>Contribute on PeerTube</source>
-        <target state="translated">Leggðu þitt af mörkum á PeerTube</target>
+        <source>Contribute on ShafDB</source>
+        <target state="translated">Leggðu þitt af mörkum á ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6886584917624458638" datatype="html">
-        <source>Want to help to improve PeerTube? You can translate the web interface, give your feedback or directly contribute to the code!</source>
-        <target state="translated">Viltu hjálpa til við að bæta PeerTube? Þú getur þýtt vefviðmótið, gefið umsagnir eða lagt þitt beint af mörkum í kóðann!</target>
+        <source>Want to help to improve ShafDB? You can translate the web interface, give your feedback or directly contribute to the code!</source>
+        <target state="translated">Viltu hjálpa til við að bæta ShafDB? Þú getur þýtt vefviðmótið, gefið umsagnir eða lagt þitt beint af mörkum í kóðann!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">56</context>
@@ -980,8 +980,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8773846522957677259" datatype="html">
-        <source>About PeerTube</source>
-        <target state="translated">Um PeerTube</target>
+        <source>About ShafDB</source>
+        <target state="translated">Um ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/routes.ts</context>
           <context context-type="linenumber">34</context>
@@ -1012,8 +1012,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="5066829276646988805" datatype="html">
-        <source>PeerTube</source>
-        <target state="translated">PeerTube</target>
+        <source>ShafDB</source>
+        <target state="translated">ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about.component.ts</context>
           <context context-type="linenumber">47</context>
@@ -1784,8 +1784,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1714039296068260295" datatype="html">
-        <source>Slight modifications to your PeerTube instance for when creating a plugin or theme is overkill.</source>
-        <target state="translated">Smábreytingar á sjálfu PeerTube-tilvikinu þínu þegar þú útbýrð viðbót eða þema er óþarfi.</target>
+        <source>Slight modifications to your ShafDB instance for when creating a plugin or theme is overkill.</source>
+        <target state="translated">Smábreytingar á sjálfu ShafDB-tilvikinu þínu þegar þú útbýrð viðbót eða þema er óþarfi.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-advanced-configuration.component.html</context>
           <context context-type="linenumber">79</context>
@@ -2202,8 +2202,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2184839376696112704" datatype="html">
-        <source>allows to import multiple videos in parallel. ⚠️ Requires a PeerTube restart.</source>
-        <target state="translated">gera kleift að flytja inn mörg myndskeið samhliða. ⚠️ Krefst endurræsingar á PeerTube.</target>
+        <source>allows to import multiple videos in parallel. ⚠️ Requires a ShafDB restart.</source>
+        <target state="translated">gera kleift að flytja inn mörg myndskeið samhliða. ⚠️ Krefst endurræsingar á ShafDB.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">277</context>
@@ -2230,8 +2230,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2095604754338363597" datatype="html">
-        <source>⚠️ If enabled, we recommend to use <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>a HTTP proxy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to prevent private URL access from your PeerTube server</source>
-        <target state="translated">⚠️ Ef þetta er virkjað, mælum við með því að nota <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>HTTP-milliþjón (proxy)<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> til að koma í veg fyrir aðgang einkaslóða frá PeerTube-þjóninum þínum</target>
+        <source>⚠️ If enabled, we recommend to use <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>a HTTP proxy<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to prevent private URL access from your ShafDB server</source>
+        <target state="translated">⚠️ Ef þetta er virkjað, mælum við með því að nota <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/maintain-configuration?id=security&quot;&gt;"/>HTTP-milliþjón (proxy)<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> til að koma í veg fyrir aðgang einkaslóða frá ShafDB-þjóninum þínum</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">293</context>
@@ -2502,8 +2502,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3112747752460656486" datatype="html" xml:space="preserve">
-        <source>Video quota (daily quota is not taken into account) is also checked for each video when PeerTube is processing the import</source>
-        <target state="translated">Myndskeiðakvóti (ekki er tekið tillit til daglegs kvóta) er einnig skoðaður fyrir hvert myndskeið þegar PeerTube vinnur með innflutninginn</target>
+        <source>Video quota (daily quota is not taken into account) is also checked for each video when ShafDB is processing the import</source>
+        <target state="translated">Myndskeiðakvóti (ekki er tekið tillit til daglegs kvóta) er einnig skoðaður fyrir hvert myndskeið þegar ShafDB vinnur með innflutninginn</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">544</context>
@@ -2518,8 +2518,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="74636758368624456" datatype="html" xml:space="preserve">
-        <source>Users can export their PeerTube data in a .zip for backup or re-import. Only one export at a time is allowed per user</source>
-        <target state="translated">Notendur geta flutt út sín eigin PeerTube-gögn í zip-skrá sem öryggisafrit eða til endurinnflutnings. Hver notandi getur aðeins flutt út einu sinni í einu</target>
+        <source>Users can export their ShafDB data in a .zip for backup or re-import. Only one export at a time is allowed per user</source>
+        <target state="translated">Notendur geta flutt út sín eigin ShafDB-gögn í zip-skrá sem öryggisafrit eða til endurinnflutnings. Hver notandi getur aðeins flutt út einu sinni í einu</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">561</context>
@@ -2678,8 +2678,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8113899484555907381" datatype="html" xml:space="preserve">
-        <source>This is just an extra information injected in PeerTube HTML that is required by Twitter/X. If you don't have a Twitter/X account, just leave the default value.</source>
-        <target state="translated">Þetta eru bara viðbótarupplýsingar sem felldar verða inn í HTML-kóða PeerTube sem krafist er fyrir Twitter/X. Ef þú ert ekki með Twitter/X aðgang skaltu einfaldlega halda sjálfgefnu gildunum.</target>
+        <source>This is just an extra information injected in ShafDB HTML that is required by Twitter/X. If you don't have a Twitter/X account, just leave the default value.</source>
+        <target state="translated">Þetta eru bara viðbótarupplýsingar sem felldar verða inn í HTML-kóða ShafDB sem krafist er fyrir Twitter/X. Ef þú ert ekki með Twitter/X aðgang skaltu einfaldlega halda sjálfgefnu gildunum.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-basic-configuration.component.html</context>
           <context context-type="linenumber">729</context>
@@ -2738,8 +2738,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="5508725342419733476" datatype="html" xml:space="preserve">
-        <source>"Split audio and video" must be enabled for the PeerTube player to propose an "Audio only" resolution to users</source>
-        <target state="translated">"Skipta upp mynd- og hljóðstreymi" verður að vera virkt til að PeerTube-spilarinn bjóði notendum upp á "Einungis hljóð" upplausn</target>
+        <source>"Split audio and video" must be enabled for the ShafDB player to propose an "Audio only" resolution to users</source>
+        <target state="translated">"Skipta upp mynd- og hljóðstreymi" verður að vera virkt til að ShafDB-spilarinn bjóði notendum upp á "Einungis hljóð" upplausn</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-configuration.service.ts</context>
           <context context-type="linenumber">20</context>
@@ -2974,8 +2974,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6614390687854488723" datatype="html" xml:space="preserve">
-        <source>It can also be displayed on external websites to promote your instance, such as <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot;  href=&quot;https://joinpeertube.org/instances&quot;&gt;"/>JoinPeerTube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
-        <target state="translated">Einnig er hægt að birta hann á utanaðkomandi vefsvæðum til kynningar á tilvikinu þínu, eins og t.d. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot;  href=&quot;https://joinpeertube.org/instances&quot;&gt;"/>JoinPeerTube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
+        <source>It can also be displayed on external websites to promote your instance, such as <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot;  href=&quot;https://shelterafrique.org/instances&quot;&gt;"/>JoinShafDB.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</source>
+        <target state="translated">Einnig er hægt að birta hann á utanaðkomandi vefsvæðum til kynningar á tilvikinu þínu, eins og t.d. <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot;  href=&quot;https://shelterafrique.org/instances&quot;&gt;"/>JoinShafDB.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-instance-information.component.html</context>
           <context context-type="linenumber">30</context>
@@ -3066,8 +3066,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8534731544752464794" datatype="html" xml:space="preserve">
-        <source>PeerTube uses this setting to explain to your users which law they must follow in the "About" pages</source>
-        <target state="translated">PeerTube notar þessa stillingu til að útskýra fyrir notendunum þínum hvaða lögum þeir verði að fylgja á "Um" síðunum</target>
+        <source>ShafDB uses this setting to explain to your users which law they must follow in the "About" pages</source>
+        <target state="translated">ShafDB notar þessa stillingu til að útskýra fyrir notendunum þínum hvaða lögum þeir verði að fylgja á "Um" síðunum</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-instance-information.component.html</context>
           <context context-type="linenumber">104,106</context>
@@ -3098,8 +3098,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="3532587780731641584" datatype="html" xml:space="preserve">
-        <source>Explain to your users how to support your platform. If set, PeerTube will display a "Support" button in "About" instance pages</source>
-        <target state="translated">Útskýrðu fyrir notendunum hvernig hægt sé að styðja við kerfið þitt. Ef þetta er stillt mun, PeerTube birta hnapp merktan "Stuðningur" á siðunum "Um netkerfið/PeerTube"</target>
+        <source>Explain to your users how to support your platform. If set, ShafDB will display a "Support" button in "About" instance pages</source>
+        <target state="translated">Útskýrðu fyrir notendunum hvernig hægt sé að styðja við kerfið þitt. Ef þetta er stillt mun, ShafDB birta hnapp merktan "Stuðningur" á siðunum "Um netkerfið/ShafDB"</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-instance-information.component.html</context>
           <context context-type="linenumber">129,131</context>
@@ -3322,8 +3322,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8362291348781958428" datatype="html">
-        <source>How will you finance the PeerTube server?</source>
-        <target state="translated">Hvernig muntu fjármagna PeerTube-þjóninn?</target>
+        <source>How will you finance the ShafDB server?</source>
+        <target state="translated">Hvernig muntu fjármagna ShafDB-þjóninn?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-instance-information.component.html</context>
           <context context-type="linenumber">280</context>
@@ -3582,8 +3582,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="8294583621306221742" datatype="html">
-        <source>new live transcoding profiles can be added by PeerTube plugins</source>
-        <target state="translated">hægt er að bæta við nýjum umkóðunarsniðum fyrir beint streymi með PeerTube-viðbótum</target>
+        <source>new live transcoding profiles can be added by ShafDB plugins</source>
+        <target state="translated">hægt er að bæta við nýjum umkóðunarsniðum fyrir beint streymi með ShafDB-viðbótum</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-live-configuration.component.html</context>
           <context context-type="linenumber">201</context>
@@ -3642,8 +3642,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1473738049081128420" datatype="html">
-        <source>Estimating a server's capacity to transcode and stream videos isn't easy and we can't tune PeerTube automatically.</source>
-        <target state="translated">Það að meta getu netþjóns til að umkóða og streyma myndskeið er ekki einfalt, við getum ekki fínstillt PeerTube sjálfvirkt.</target>
+        <source>Estimating a server's capacity to transcode and stream videos isn't easy and we can't tune ShafDB automatically.</source>
+        <target state="translated">Það að meta getu netþjóns til að umkóða og streyma myndskeið er ekki einfalt, við getum ekki fínstillt ShafDB sjálfvirkt.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">9</context>
@@ -3658,8 +3658,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2384409178337534505" datatype="html">
-        <source>Process uploaded videos so that they are in a streamable form that any device can play. Though costly in resources, this is a critical part of PeerTube, so tread carefully.</source>
-        <target state="translated">Meðhöndlaðu innsend myndskeið þannig að þau verði á streymanlegu sniði sem öll tæki geti spilað. Þó það útheimti gríðarlega vinnslugetu þá er þetta einn mikilvæasti þáttur PeerTube, þannig að hér ætti að stíga létt til jarðar.</target>
+        <source>Process uploaded videos so that they are in a streamable form that any device can play. Though costly in resources, this is a critical part of ShafDB, so tread carefully.</source>
+        <target state="translated">Meðhöndlaðu innsend myndskeið þannig að þau verði á streymanlegu sniði sem öll tæki geti spilað. Þó það útheimti gríðarlega vinnslugetu þá er þetta einn mikilvæasti þáttur ShafDB, þannig að hér ætti að stíga létt til jarðar.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">26</context>
@@ -3818,8 +3818,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="443904340561625146" datatype="html" xml:space="preserve">
-        <source>If enabled, remote PeerTube instances &lt; 6.3.0 won't be able to play these videos</source>
-        <target state="translated">Ef þetta er virkt, munu fjartengdir PeerTube netþjónar &lt; 6.3.0 ekki geta spilað þessi myndskeið</target>
+        <source>If enabled, remote ShafDB instances &lt; 6.3.0 won't be able to play these videos</source>
+        <target state="translated">Ef þetta er virkt, munu fjartengdir ShafDB netþjónar &lt; 6.3.0 ekki geta spilað þessi myndskeið</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">128</context>
@@ -3835,7 +3835,7 @@
       </trans-unit>
       <trans-unit id="4806060468959678872" datatype="html" xml:space="preserve">
         <source>This option adds the ability for the HLS player to propose the "Audio only" quality to users.</source>
-        <target state="translated">Þessi valkostur gefur PeerTube-spilaranum fært að bjóða notendum upp á "Einungis hljóð" gæði.</target>
+        <target state="translated">Þessi valkostur gefur ShafDB-spilaranum fært að bjóða notendum upp á "Einungis hljóð" gæði.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">132</context>
@@ -3922,8 +3922,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="1969393594784140832" datatype="html">
-        <source>allows to transcode multiple files in parallel. ⚠️ Requires a PeerTube restart</source>
-        <target state="translated">gera kleift að umkóða margar skrár samhliða. ⚠️ Krefst endurræsingar á PeerTube</target>
+        <source>allows to transcode multiple files in parallel. ⚠️ Requires a ShafDB restart</source>
+        <target state="translated">gera kleift að umkóða margar skrár samhliða. ⚠️ Krefst endurræsingar á ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">228</context>
@@ -3938,8 +3938,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6289966287765074028" datatype="html">
-        <source>new transcoding profiles can be added by PeerTube plugins</source>
-        <target state="translated">hægt er að bæta við nýjum umkóðunarsniðum með PeerTube-viðbótum</target>
+        <source>new transcoding profiles can be added by ShafDB plugins</source>
+        <target state="translated">hægt er að bæta við nýjum umkóðunarsniðum með ShafDB-viðbótum</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/config/edit-custom-config/edit-vod-transcoding.component.html</context>
           <context context-type="linenumber">240</context>
@@ -5086,8 +5086,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6252848909934071768" datatype="html">
-        <source>Emails are not enabled on this instance so PeerTube won't be able to send an email to <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> explaining its account has been created. </source>
-        <target state="translated">Tölvupóstsamskipti eru ekki virkjuð á þessum netþjóni þannig að PeerTube mun ekki geta sent tölvupóst á <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> þar sem útskýrt er að viðkomandi notandaaðgangur hafi verið útbúinn. </target>
+        <source>Emails are not enabled on this instance so ShafDB won't be able to send an email to <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> explaining its account has been created. </source>
+        <target state="translated">Tölvupóstsamskipti eru ekki virkjuð á þessum netþjóni þannig að ShafDB mun ekki geta sent tölvupóst á <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> þar sem útskýrt er að viðkomandi notandaaðgangur hafi verið útbúinn. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/moderation/registration-list/process-registration-modal.component.html</context>
           <context context-type="linenumber">31</context>
@@ -5102,8 +5102,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="2693506849974732500" datatype="html">
-        <source>Emails are not enabled on this instance so PeerTube won't be able to send an email to <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> explaining its registration request has been rejected. </source>
-        <target state="translated">Tölvupóstsamskipti eru ekki virkjuð á þessum netþjóni þannig að PeerTube mun ekki geta sent tölvupóst á <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> þar sem útskýrt er að viðkomandi skráningarbeiðni hafi verið hafnað. </target>
+        <source>Emails are not enabled on this instance so ShafDB won't be able to send an email to <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> explaining its registration request has been rejected. </source>
+        <target state="translated">Tölvupóstsamskipti eru ekki virkjuð á þessum netþjóni þannig að ShafDB mun ekki geta sent tölvupóst á <x id="START_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;em&gt;"/><x id="INTERPOLATION" equiv-text="{{ registration.email }}"/><x id="CLOSE_EMPHASISED_TEXT" ctype="x-em" equiv-text="&lt;/em&gt;"/> þar sem útskýrt er að viðkomandi skráningarbeiðni hafi verið hafnað. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/moderation/registration-list/process-registration-modal.component.html</context>
           <context context-type="linenumber">41</context>
@@ -7268,8 +7268,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7186771264833643704" datatype="html">
-        <source>This plugin is developed by Framasoft, the not-for-profit that develops PeerTube</source>
-        <target state="translated">Þessi viðbót er þróuð af Framasoft, samtökum án hagnaðarmarkmiða sem hannar PeerTube</target>
+        <source>This plugin is developed by Framasoft, the not-for-profit that develops ShafDB</source>
+        <target state="translated">Þessi viðbót er þróuð af Framasoft, samtökum án hagnaðarmarkmiða sem hannar ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/plugins/plugin-search/plugin-search.component.html</context>
           <context context-type="linenumber">45</context>
@@ -7284,8 +7284,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="5976946399792378437" datatype="html">
-        <source>This plugin is recommended by Framasoft, the not-for-profit that develops PeerTube</source>
-        <target state="translated">Mælt er með þessari viðbót af Framasoft, samtökum án hagnaðarmarkmiða sem hannar PeerTube</target>
+        <source>This plugin is recommended by Framasoft, the not-for-profit that develops ShafDB</source>
+        <target state="translated">Mælt er með þessari viðbót af Framasoft, samtökum án hagnaðarmarkmiða sem hannar ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/plugins/plugin-search/plugin-search.component.html</context>
           <context context-type="linenumber">50</context>
@@ -7504,8 +7504,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="7223931053738621590" datatype="html">
-        <source>PeerTube thinks your web browser public IP is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ debug?.ip }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
-        <target state="translated">PeerTube heldur að opinbera IP-vistfang vafrans þíns sé <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ debug?.ip }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</target>
+        <source>ShafDB thinks your web browser public IP is <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ debug?.ip }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</source>
+        <target state="translated">ShafDB heldur að opinbera IP-vistfang vafrans þíns sé <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ debug?.ip }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+admin/system/debug/debug.component.html</context>
           <context context-type="linenumber">3</context>
@@ -8171,16 +8171,16 @@
         </context-group>
       </trans-unit>
       <trans-unit id="6584143415159913044" datatype="html">
-        <source>This instance allows registration. However, be careful to check the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href='#'&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> before creating an account. You may also search for another instance to match your exact needs at: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://joinpeertube.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">Þessi netþjónn leyfir nýskráningar. Hinsvegar þarftu að muna eftir að merkja við <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href='#'&gt;"/>skilmálana<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>skilmálana<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> áður en þú býrð til notandaaðgang. Þú getur líka leitað hér að öðrum netþjóni sem uppfyllir þarfir þínar: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://joinpeertube.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source>This instance allows registration. However, be careful to check the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href='#'&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> before creating an account. You may also search for another instance to match your exact needs at: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://shelterafrique.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">Þessi netþjónn leyfir nýskráningar. Hinsvegar þarftu að muna eftir að merkja við <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href='#'&gt;"/>skilmálana<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>skilmálana<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> áður en þú býrð til notandaaðgang. Þú getur líka leitað hér að öðrum netþjóni sem uppfyllir þarfir þínar: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://shelterafrique.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+login/login.component.html</context>
           <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="921088049695906924" datatype="html" xml:space="preserve">
-        <source>Currently this instance doesn't allow for user registration, you may check the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor d-inline&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href=&quot;/about/instance#terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> for more details or find an instance that gives you the possibility to sign up for an account and upload your videos there. Find yours among multiple instances at: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://joinpeertube.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">Þessi netþjónn leyfir ekki nýskráningar í augnablikinu, þú getur skoðað síðuna <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor d-inline&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href=&quot;/about/instance#terms&quot;&gt;"/>Skilmálar<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Skilmálar<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> til að sjá nánari upplýsingar eða fundið netþjón sem gefur þér kost á að nýskrá notandaaðgang þar sem þú getur sent inn myndskeið. Finndu þér einhvern netþjón sem þér hentar: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://joinpeertube.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source>Currently this instance doesn't allow for user registration, you may check the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor d-inline&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href=&quot;/about/instance#terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Terms<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> for more details or find an instance that gives you the possibility to sign up for an account and upload your videos there. Find yours among multiple instances at: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://shelterafrique.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">Þessi netþjónn leyfir ekki nýskráningar í augnablikinu, þú getur skoðað síðuna <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange terms-anchor d-inline&quot; (click)=&quot;onTermsClick($event, instanceInformation)&quot; href=&quot;/about/instance#terms&quot;&gt;"/>Skilmálar<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/><x id="START_LINK_1" equiv-text="&lt;a class=&quot;terms-link&quot; target=&quot;_blank&quot; routerLink=&quot;/about/instance&quot; fragment=&quot;terms&quot;&gt;"/>Skilmálar<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> til að sjá nánari upplýsingar eða fundið netþjón sem gefur þér kost á að nýskrá notandaaðgang þar sem þú getur sent inn myndskeið. Finndu þér einhvern netþjón sem þér hentar: <x id="START_LINK_2" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://shelterafrique.org/instances&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+login/login.component.html</context>
           <context context-type="linenumber">18</context>
@@ -8295,8 +8295,8 @@
         </context-group>
       </trans-unit>
       <trans-unit id="87327320394367488" datatype="html">
-        <source>We are sorry, you cannot recover your password because your instance administrator did not configure the PeerTube email system.</source>
-        <target state="translated">Okkur þykir það leitt, en þú getur ekki endurheimt lykilorðið þitt þar sem kerfisstjóri netþjónsins þíns hefur ekki stillt tölvupóstkerfi PeerTube.</target>
+        <source>We are sorry, you cannot recover your password because your instance administrator did not configure the ShafDB email system.</source>
+        <target state="translated">Okkur þykir það leitt, en þú getur ekki endurheimt lykilorðið þitt þar sem kerfisstjóri netþjónsins þíns hefur ekki stillt tölvupóstkerfi ShafDB.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+login/login.component.html</context>
           <context context-type="linenumber">127</context>
@@ -8889,8 +8889,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="896330674868470367" datatype="html" xml:space="preserve">
-        <source>A directory containing an export in custom PeerTube JSON format that can be used to re-import your account on another PeerTube instance</source>
-        <target state="translated">Mappa sem innigeldur útflutt gögn á sérsniðnu PeerTube JSON-sniði sem hægt er að nota til að flytja inn í notandaaðgang á einhverjum öðrum PeerTube-netþjóni</target>
+        <source>A directory containing an export in custom ShafDB JSON format that can be used to re-import your account on another ShafDB instance</source>
+        <target state="translated">Mappa sem innigeldur útflutt gögn á sérsniðnu ShafDB JSON-sniði sem hægt er að nota til að flytja inn í notandaaðgang á einhverjum öðrum ShafDB-netþjóni</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-export.component.html</context>
           <context context-type="linenumber">29</context>
@@ -9381,8 +9381,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2764971902180889905" datatype="html">
-        <source>A new PeerTube version is available</source>
-        <target state="translated">Ný útgáfa PeerTube er tiltæk</target>
+        <source>A new ShafDB version is available</source>
+        <target state="translated">Ný útgáfa ShafDB er tiltæk</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-settings/my-account-notification-preferences/my-account-notification-preferences.component.ts</context>
           <context context-type="linenumber">108</context>
@@ -10728,8 +10728,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2427149618141327033" datatype="html">
-        <source>Browse videos on PeerTube to add them in your playlist.</source>
-        <target state="translated">Flettu í myndskeiðum á PeerTube til að bæta þeim í spilunarlistann þinn.</target>
+        <source>Browse videos on ShafDB to add them in your playlist.</source>
+        <target state="translated">Flettu í myndskeiðum á ShafDB til að bæta þeim í spilunarlistann þinn.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-library/my-video-playlists/my-video-playlist-elements.component.html</context>
           <context context-type="linenumber">26</context>
@@ -11185,8 +11185,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5143793904897598509" datatype="html">
-        <source>PeerTube instance host</source>
-        <target state="translated">PeerTube netþjónstilvik</target>
+        <source>ShafDB instance host</source>
+        <target state="translated">ShafDB netþjónstilvik</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+search/search-filters.component.html</context>
           <context context-type="linenumber">159</context>
@@ -11587,8 +11587,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="220345070199640496" datatype="html">
-        <source>PeerTube is creating your account...</source>
-        <target state="translated">PeerTube er að búa til notandaaðgang fyrir þig...</target>
+        <source>ShafDB is creating your account...</source>
+        <target state="translated">ShafDB er að búa til notandaaðgang fyrir þig...</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/+register/register.component.html</context>
           <context context-type="linenumber">108</context>
@@ -11652,8 +11652,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="7772973173091400795" datatype="html">
-        <source><x id="INTERPOLATION" equiv-text="{{ instanceName }}"/> has been created using <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://joinpeertube.org&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, a video creation platform developed by Framasoft. <x id="START_LINK_1" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://framasoft.org&quot;&gt;"/>Framasoft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> is a french non-profit organization that offers alternatives to Big Tech's digital tools </source>
-        <target state="translated"><x id="INTERPOLATION" equiv-text="{{ instanceName }}"/> hefur verið útbúið með <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://joinpeertube.org&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, kerfi til umsýslu myndskeiða, sem þróað er af Framasoft. <x id="START_LINK_1" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://framasoft.org&quot;&gt;"/>Framasoft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> eru frönsk samtök án hagnaðarmarkmiða sem leitast við að bjóða upp á valkosti aðra en stafrænar lausnir stóru tæknifyrirtækjanna </target>
+        <source><x id="INTERPOLATION" equiv-text="{{ instanceName }}"/> has been created using <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://shelterafrique.org&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, a video creation platform developed by Framasoft. <x id="START_LINK_1" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://framasoft.org&quot;&gt;"/>Framasoft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> is a french non-profit organization that offers alternatives to Big Tech's digital tools </source>
+        <target state="translated"><x id="INTERPOLATION" equiv-text="{{ instanceName }}"/> hefur verið útbúið með <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://shelterafrique.org&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>, kerfi til umsýslu myndskeiða, sem þróað er af Framasoft. <x id="START_LINK_1" equiv-text="&lt;a class=&quot;link-orange&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://framasoft.org&quot;&gt;"/>Framasoft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> eru frönsk samtök án hagnaðarmarkmiða sem leitast við að bjóða upp á valkosti aðra en stafrænar lausnir stóru tæknifyrirtækjanna </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/+register/steps/register-step-about.component.html</context>
           <context context-type="linenumber">43</context>
@@ -11936,8 +11936,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="2448802938372065840" datatype="html">
-        <source>If you need help using PeerTube, you can have a look at the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use/setup-account&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">Ef þig vantar hjálp við að nota PeerTube, þá geturðu skoðað <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use-setup-account&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>hjálparskjölin<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source>If you need help using ShafDB, you can have a look at the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use/setup-account&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">Ef þig vantar hjálp við að nota ShafDB, þá geturðu skoðað <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use-setup-account&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>hjálparskjölin<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+signup/shared/signup-success-after-email.component.html</context>
           <context context-type="linenumber">16</context>
@@ -13334,8 +13334,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="5153270828945387960" datatype="html" xml:space="preserve">
-        <source>Chapters can also be set in the video description. Check the format <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/create-upload-video#chapters&quot; target=&quot;_blank&quot;&gt;"/>in the PeerTube documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">Hægt er að stilla kafla í lýsingu myndskeiðsins. Skoðaðu sniðið <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/create-upload-video#chapters&quot; target=&quot;_blank&quot;&gt;"/>í hjálparskjölum PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <source>Chapters can also be set in the video description. Check the format <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/create-upload-video#chapters&quot; target=&quot;_blank&quot;&gt;"/>in the ShafDB documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">Hægt er að stilla kafla í lýsingu myndskeiðsins. Skoðaðu sniðið <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://docs.joinpeertube.org/use/create-upload-video#chapters&quot; target=&quot;_blank&quot;&gt;"/>í hjálparskjölum ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/chapters/video-chapters.component.html</context>
           <context context-type="linenumber">14</context>
@@ -14735,8 +14735,8 @@ The link will expire within 1 hour.</source>
         </context-group>
       </trans-unit>
       <trans-unit id="7508177761852352782" datatype="html">
-        <source>You can comment using an account on any ActivityPub-compatible instance (PeerTube/Mastodon/Pleroma account for example).</source>
-        <target state="translated">Þú getur sett inn athugasemd með aðgangi á hvaða ActivityPub-samhæfða skýjasambandsnetþjóni sem er (til dæmis PeerTube, Mastodon eða Pleroma).</target>
+        <source>You can comment using an account on any ActivityPub-compatible instance (ShafDB/Mastodon/Pleroma account for example).</source>
+        <target state="translated">Þú getur sett inn athugasemd með aðgangi á hvaða ActivityPub-samhæfða skýjasambandsnetþjóni sem er (til dæmis ShafDB, Mastodon eða Pleroma).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+video-watch/shared/comment/video-comment-add.component.html</context>
           <context context-type="linenumber">70</context>
@@ -16064,8 +16064,8 @@ The link will expire within 1 hour.</source>
       </trans-unit>
       <trans-unit id="2013324644839511073" datatype="html">
         <source>Cannot retrieve OAuth Client credentials: <x id="PH" equiv-text="err.message"/>.
-Ensure you have correctly configured PeerTube (config/ directory), in particular the "webserver" section.</source>
-        <target state="translated">Get ekki nálgast auðkenni OAuth-biðlara: <x id="PH" equiv-text="err.message"/>. Gakktu úr skugga um að þú hafir stillt PeerTube rétt (config/ directory), sérstaklega "webserver" hlutann.</target>
+Ensure you have correctly configured ShafDB (config/ directory), in particular the "webserver" section.</source>
+        <target state="translated">Get ekki nálgast auðkenni OAuth-biðlara: <x id="PH" equiv-text="err.message"/>. Gakktu úr skugga um að þú hafir stillt ShafDB rétt (config/ directory), sérstaklega "webserver" hlutann.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/core/auth/auth.service.ts</context>
           <context context-type="linenumber">102</context>
@@ -16300,8 +16300,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="4012645514712660678" datatype="html" xml:space="preserve">
-        <source>PeerTube selects the appropriate theme depending on web browser preferences</source>
-        <target state="translated">PeerTube velur viðeigandi þema út frá kjörstillingum vafrans</target>
+        <source>ShafDB selects the appropriate theme depending on web browser preferences</source>
+        <target state="translated">ShafDB velur viðeigandi þema út frá kjörstillingum vafrans</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/core/theme/theme.service.ts</context>
           <context context-type="linenumber">53</context>
@@ -16520,8 +16520,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="2964653499524716819" datatype="html">
-        <source>Help to translate PeerTube!</source>
-        <target state="translated">Hjálpaðu við þýðingar á PeerTube!</target>
+        <source>Help to translate ShafDB!</source>
+        <target state="translated">Hjálpaðu við þýðingar á ShafDB!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/menu/language-chooser.component.html</context>
           <context context-type="linenumber">11</context>
@@ -16556,8 +16556,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="3433184700415677129" datatype="html" xml:space="preserve">
-        <source>Platform powered by <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;&quot; href=&quot;https://joinpeertube.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">Kerfið er keyrt með <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;&quot; href=&quot;https://joinpeertube.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <source>Platform powered by <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;&quot; href=&quot;https://shelterafrique.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">Kerfið er keyrt með <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;&quot; href=&quot;https://shelterafrique.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/menu/menu.component.html</context>
           <context context-type="linenumber">100</context>
@@ -16760,8 +16760,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="1516969129397662377" datatype="html">
-        <source>Welcome to PeerTube, dear administrator!</source>
-        <target state="translated">Velkominn á PeerTube, kæri stjórnandi!</target>
+        <source>Welcome to ShafDB, dear administrator!</source>
+        <target state="translated">Velkominn á ShafDB, kæri stjórnandi!</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/admin-welcome-modal.component.html</context>
           <context context-type="linenumber">3</context>
@@ -16848,16 +16848,16 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="3109023679137193515" datatype="html" xml:space="preserve">
-        <source>Official PeerTube website (news, support, contribute...): <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://joinpeertube.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">Opinbera PeerTube vefsvæðið (fréttir, aðstoð, þátttaka...): <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://joinpeertube.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://joinpeertube.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <source>Official ShafDB website (news, support, contribute...): <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://shelterafrique.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">Opinbera ShafDB vefsvæðið (fréttir, aðstoð, þátttaka...): <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://shelterafrique.org&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>https://shelterafrique.org<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/admin-welcome-modal.component.html</context>
           <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="647900782867860768" datatype="html" xml:space="preserve">
-        <source>Put your instance on the public PeerTube index: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://instances.joinpeertube.org/instances&quot;&gt;"/>https://instances.joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
-        <target state="translated">Settu tilvikið þitt á opinbera skrá PeerTube: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://instances.joinpeertube.org/instances&quot;&gt;"/>https://instances.joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
+        <source>Put your instance on the public ShafDB index: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://instances.joinpeertube.org/instances&quot;&gt;"/>https://instances.joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></source>
+        <target state="translated">Settu tilvikið þitt á opinbera skrá ShafDB: <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;https://instances.joinpeertube.org/instances&quot;&gt;"/>https://instances.joinpeertube.org/instances<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/></target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/admin-welcome-modal.component.html</context>
           <context context-type="linenumber">46</context>
@@ -16880,8 +16880,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5329436244765769292" datatype="html">
-        <source>If you want to open registrations, please decide what <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>your moderation rules<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> and <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>instance terms of service<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> are, as well as specify the categories and languages and your moderators speak. This way, you will help users to register on <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>the appropriate<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> PeerTube instance. </source>
-        <target state="translated">Ef þú vilt opna fyrir nýskráningar, þá skaltu ákveða <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>reglur varðandi leyfilegt efni<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> og <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>þjónustuskilmála veitunnar<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, auk þess að tilgreina flokka og þau tungumál sem umsjónaraðilar tala. Þannig geturðu hjálpað fólki að skrá sig á <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>viðeigandi<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> PeerTube-netþjón. </target>
+        <source>If you want to open registrations, please decide what <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>your moderation rules<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> and <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>instance terms of service<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> are, as well as specify the categories and languages and your moderators speak. This way, you will help users to register on <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>the appropriate<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> ShafDB instance. </source>
+        <target state="translated">Ef þú vilt opna fyrir nýskráningar, þá skaltu ákveða <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>reglur varðandi leyfilegt efni<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> og <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>þjónustuskilmála veitunnar<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>, auk þess að tilgreina flokka og þau tungumál sem umsjónaraðilar tala. Þannig geturðu hjálpað fólki að skrá sig á <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>viðeigandi<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> ShafDB-netþjón. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/admin-welcome-modal.component.html</context>
           <context context-type="linenumber">65</context>
@@ -16984,8 +16984,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5330788940795142335" datatype="html">
-        <source>Please consider configuring these fields to help people to choose <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>the appropriate instance<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Without them, your instance may not be referenced on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://joinpeertube.org&quot;&gt;"/>JoinPeerTube website<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated">Hugsaðu um að fylla í þessa reiti til að hjálpa fólki að velja <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>the viðeigandi netþjón<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Án þessara upplýsinga er ekki víst að vísað verði í netþjóninn þinn á the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://joinpeertube.org&quot;&gt;"/>JoinPeerTube-vefsvæðinu<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source>Please consider configuring these fields to help people to choose <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>the appropriate instance<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Without them, your instance may not be referenced on the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://shelterafrique.org&quot;&gt;"/>JoinShafDB website<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated">Hugsaðu um að fylla í þessa reiti til að hjálpa fólki að velja <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>the viðeigandi netþjón<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>. Án þessara upplýsinga er ekki víst að vísað verði í netþjóninn þinn á the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot; href=&quot;https://shelterafrique.org&quot;&gt;"/>JoinShafDB-vefsvæðinu<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/modal/instance-config-warning-modal.component.html</context>
           <context context-type="linenumber">27</context>
@@ -19016,8 +19016,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="3171444589366264129" datatype="html" xml:space="preserve">
-        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>Markdown compatible<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> that also supports <x id="START_LINK_1" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://docs.joinpeertube.org/api/custom-client-markup&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>custom PeerTube HTML tags<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
-        <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>Markdown-samhæft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> sem einnig styður <x id="START_LINK_1" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://docs.joinpeertube.org/api/custom-client-markup&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>sérsniðin HTML-einindi PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>Markdown compatible<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> that also supports <x id="START_LINK_1" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://docs.joinpeertube.org/api/custom-client-markup&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>custom ShafDB HTML tags<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </source>
+        <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://en.wikipedia.org/wiki/Markdown#Example&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>Markdown-samhæft<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> sem einnig styður <x id="START_LINK_1" equiv-text="&lt;a class=&quot;text-decoration-underline&quot; href=&quot;https://docs.joinpeertube.org/api/custom-client-markup&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;"/>sérsniðin HTML-einindi ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-custom-markup/custom-markup-help.component.html</context>
           <context context-type="linenumber">2,3</context>
@@ -19344,8 +19344,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5604677701754367707" datatype="html">
-        <source>PeerTube cannot handle this kind of file. Accepted extensions are <x id="PH" equiv-text="this.allowedExtensionsMessage"/>.</source>
-        <target state="translated">PeerTube getur ekki meðhöndlað þessa tegund skráa. Leyfðar skráarendingar eru <x id="PH" equiv-text="this.allowedExtensionsMessage"/>.</target>
+        <source>ShafDB cannot handle this kind of file. Accepted extensions are <x id="PH" equiv-text="this.allowedExtensionsMessage"/>.</source>
+        <target state="translated">ShafDB getur ekki meðhöndlað þessa tegund skráa. Leyfðar skráarendingar eru <x id="PH" equiv-text="this.allowedExtensionsMessage"/>.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-forms/reactive-file.component.ts</context>
           <context context-type="linenumber">80</context>
@@ -19492,8 +19492,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="6751395526297887552" datatype="html">
-        <source>PeerTube version</source>
-        <target state="translated">útgáfa PeerTube</target>
+        <source>ShafDB version</source>
+        <target state="translated">útgáfa ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-instance/instance-features-table.component.html</context>
           <context context-type="linenumber">6</context>
@@ -20008,8 +20008,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="4301908502265861759" datatype="html" xml:space="preserve">
-        <source>This platform is powered by PeerTube</source>
-        <target state="translated">Þetta kerfi er keyrt með PeerTube</target>
+        <source>This platform is powered by ShafDB</source>
+        <target state="translated">Þetta kerfi er keyrt með ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+about/about-peertube/about-peertube.component.html</context>
           <context context-type="linenumber">3,4</context>
@@ -20296,16 +20296,16 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="7919708461177482031" datatype="html" xml:space="preserve">
-        <source>PeerTube considers video "<x id="PH" equiv-text="video.name"/>" is already being transcripted.</source>
-        <target state="translated">PeerTube álítur myndskeiðið "<x id="PH" equiv-text="video.name"/>" vera þegar umritað.</target>
+        <source>ShafDB considers video "<x id="PH" equiv-text="video.name"/>" is already being transcripted.</source>
+        <target state="translated">ShafDB álítur myndskeiðið "<x id="PH" equiv-text="video.name"/>" vera þegar umritað.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video-caption/video-caption.service.ts</context>
           <context context-type="linenumber">115</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1574297288544496710" datatype="html" xml:space="preserve">
-        <source>If you think PeerTube is wrong (video in broken state after a crash etc.), you can force transcription on this video.</source>
-        <target state="translated">Ef þú heldur að PeerTube hafi rangt fyrir sér (myndskeið sé skemmt eftir hrun, o.s.frv.), geturðu þvingað fram umritun á þessu myndskeiði.</target>
+        <source>If you think ShafDB is wrong (video in broken state after a crash etc.), you can force transcription on this video.</source>
+        <target state="translated">Ef þú heldur að ShafDB hafi rangt fyrir sér (myndskeið sé skemmt eftir hrun, o.s.frv.), geturðu þvingað fram umritun á þessu myndskeiði.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video-caption/video-caption.service.ts</context>
           <context context-type="linenumber">117</context>
@@ -20516,8 +20516,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5055099158245592648" datatype="html">
-        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a (click)=&quot;markAsRead(notification)&quot; [href]=&quot;notification.peertubeVersionLink&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>A new version of PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> is available: <x id="INTERPOLATION" equiv-text="{{ notification.peertube.latestVersion }}"/> </source>
-        <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a (click)=&quot;markAsRead(notification)&quot; [href]=&quot;notification.peertubeVersionLink&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>Ný útgáfa af PeerTube<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> er tiltæk: <x id="INTERPOLATION" equiv-text="{{ notification.peertube.latestVersion }}"/> </target>
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a (click)=&quot;markAsRead(notification)&quot; [href]=&quot;notification.peertubeVersionLink&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>A new version of ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> is available: <x id="INTERPOLATION" equiv-text="{{ notification.peertube.latestVersion }}"/> </source>
+        <target state="translated"><x id="START_LINK" ctype="x-a" equiv-text="&lt;a (click)=&quot;markAsRead(notification)&quot; [href]=&quot;notification.peertubeVersionLink&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>Ný útgáfa af ShafDB<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> er tiltæk: <x id="INTERPOLATION" equiv-text="{{ notification.peertube.latestVersion }}"/> </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/standalone-notifications/user-notifications.component.html</context>
           <context context-type="linenumber">208</context>
@@ -20620,16 +20620,16 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="7235777177623270068" datatype="html" xml:space="preserve">
-        <source>PeerTube considers video "<x id="PH" equiv-text="video.name"/>" is already being transcoded.</source>
-        <target state="translated">PeerTube álítur myndskeiðið "<x id="PH" equiv-text="video.name"/>" vera þegar umkóðað.</target>
+        <source>ShafDB considers video "<x id="PH" equiv-text="video.name"/>" is already being transcoded.</source>
+        <target state="translated">ShafDB álítur myndskeiðið "<x id="PH" equiv-text="video.name"/>" vera þegar umkóðað.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video/video.service.ts</context>
           <context context-type="linenumber">409</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5630101530611188113" datatype="html">
-        <source>If you think PeerTube is wrong (video in broken state after a crash etc.), you can force transcoding on this video.</source>
-        <target state="translated">Ef þú heldur að PeerTube hafi rangt fyrir sér (myndskeið sé skemmt eftir hrun, o.s.frv.), geturðu þvingað fram umkóðun á þessu myndskeiði.</target>
+        <source>If you think ShafDB is wrong (video in broken state after a crash etc.), you can force transcoding on this video.</source>
+        <target state="translated">Ef þú heldur að ShafDB hafi rangt fyrir sér (myndskeið sé skemmt eftir hrun, o.s.frv.), geturðu þvingað fram umkóðun á þessu myndskeiði.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-main/video/video.service.ts</context>
           <context context-type="linenumber">411</context>
@@ -21852,8 +21852,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="805456636864344681" datatype="html">
-        <source>Display PeerTube button link</source>
-        <target state="translated">Birta slóðarhnapp PeerTube</target>
+        <source>Display ShafDB button link</source>
+        <target state="translated">Birta slóðarhnapp ShafDB</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-share-modal/video-share.component.html</context>
           <context context-type="linenumber">290</context>
@@ -22120,16 +22120,16 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="6462281745850371027" datatype="html">
-        <source>You can subscribe to the channel via any ActivityPub-capable fediverse instance (PeerTube, Mastodon or Pleroma for example).</source>
-        <target state="translated">Þú getur gerst áskrifandi að rásinni með hvaða ActivityPub-samhæfða skýjasambandsnetþjóni sem er (til dæmis PeerTube, Mastodon eða Pleroma).</target>
+        <source>You can subscribe to the channel via any ActivityPub-capable fediverse instance (ShafDB, Mastodon or Pleroma for example).</source>
+        <target state="translated">Þú getur gerst áskrifandi að rásinni með hvaða ActivityPub-samhæfða skýjasambandsnetþjóni sem er (til dæmis ShafDB, Mastodon eða Pleroma).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-subscription/remote-subscribe.component.html</context>
           <context context-type="linenumber">19</context>
         </context-group>
       </trans-unit>
       <trans-unit id="20374890400263257" datatype="html">
-        <source>You can interact with this via any ActivityPub-capable fediverse instance (PeerTube, Mastodon or Pleroma for example).</source>
-        <target state="translated">Þú getur átt samskipti við þetta með hvaða ActivityPub-samhæfða skýjasambandsnetþjóni sem er (til dæmis PeerTube, Mastodon eða Pleroma).</target>
+        <source>You can interact with this via any ActivityPub-capable fediverse instance (ShafDB, Mastodon or Pleroma for example).</source>
+        <target state="translated">Þú getur átt samskipti við þetta með hvaða ActivityPub-samhæfða skýjasambandsnetþjóni sem er (til dæmis ShafDB, Mastodon eða Pleroma).</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-subscription/remote-subscribe.component.html</context>
           <context context-type="linenumber">25</context>
@@ -22304,8 +22304,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5637879201055173642" datatype="html">
-        <source>See <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use-create-upload-video?id=publish-a-live-in-peertube-gt-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>the documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn how to use the PeerTube live streaming feature. </source>
-        <target state="translated">Skoðaðu <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use-create-upload-video?id=publish-a-live-in-peertube-gt-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>hjálparskjölin<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> til að sjá hvernig á að nota bein streymi í PeerTube. </target>
+        <source>See <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use-create-upload-video?id=publish-a-live-in-peertube-gt-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>the documentation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> to learn how to use the ShafDB live streaming feature. </source>
+        <target state="translated">Skoðaðu <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-orange&quot; href=&quot;https://docs.joinpeertube.org/use-create-upload-video?id=publish-a-live-in-peertube-gt-v3&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;"/>hjálparskjölin<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> til að sjá hvernig á að nota bein streymi í ShafDB. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+videos-publish-manage/shared-manage/live-settings/live-documentation-link.component.html</context>
           <context context-type="linenumber">2</context>
@@ -22777,8 +22777,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="8386580266736130510" datatype="html" xml:space="preserve">
-        <source>Including video files is required if you want to re-import your videos on another PeerTube website</source>
-        <target state="translated">Nauðsynlegt er að hafa með myndskeiðaskrár ef þú ætlar að flytja myndskeiðin þín aftur inn á öðru PeerTube-vefsvæði</target>
+        <source>Including video files is required if you want to re-import your videos on another ShafDB website</source>
+        <target state="translated">Nauðsynlegt er að hafa með myndskeiðaskrár ef þú ætlar að flytja myndskeiðin þín aftur inn á öðru ShafDB-vefsvæði</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-export.component.html</context>
           <context context-type="linenumber">103</context>
@@ -22829,16 +22829,16 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="4737947753130898543" datatype="html" xml:space="preserve">
-        <source>You can import an archive created by another PeerTube website.</source>
-        <target state="translated">Þú getur flutt inn safnskrá sem útbúin hefur verið á öðru PeerTube-vefsvæði.</target>
+        <source>You can import an archive created by another ShafDB website.</source>
+        <target state="translated">Þú getur flutt inn safnskrá sem útbúin hefur verið á öðru ShafDB-vefsvæði.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7544701838241243416" datatype="html" xml:space="preserve">
-        <source>This is an <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>import<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> tool and not a migration tool. It's the reason why data (like channels or videos) is duplicated and not moved from your previous PeerTube website. </source>
-        <target state="translated">Þetta er verkfæri til <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>innflutnings<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> en ekki til millifærslu. Það veldur því að gögn (eins og rásir eða myndskeið) eru tvítekin en ekki beinlínis færð af eldra PeerTube-vefsvæðinu þínu. </target>
+        <source>This is an <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>import<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> tool and not a migration tool. It's the reason why data (like channels or videos) is duplicated and not moved from your previous ShafDB website. </source>
+        <target state="translated">Þetta er verkfæri til <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>innflutnings<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> en ekki til millifærslu. Það veldur því að gögn (eins og rásir eða myndskeið) eru tvítekin en ekki beinlínis færð af eldra ShafDB-vefsvæðinu þínu. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">13</context>
@@ -22949,8 +22949,8 @@ Ensure you have correctly configured PeerTube (config/ directory), in particular
         </context-group>
       </trans-unit>
       <trans-unit id="5245328363134510565" datatype="html" xml:space="preserve">
-        <source>You can't re-import an archive because you already have an import that is currently being processed by PeerTube.</source>
-        <target state="translated">Þú getur ekki flutt aftur inn safnskrá þar sem þú ert þegar með innflutning sem PeerTube er að vinna með.</target>
+        <source>You can't re-import an archive because you already have an import that is currently being processed by ShafDB.</source>
+        <target state="translated">Þú getur ekki flutt aftur inn safnskrá þar sem þú ert þegar með innflutning sem ShafDB er að vinna með.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/+my-account/my-account-import-export/my-account-import.component.html</context>
           <context context-type="linenumber">52</context>
