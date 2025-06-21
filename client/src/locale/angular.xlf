@@ -19542,7 +19542,7 @@ Ensure you have correctly configured ShafDB (config/ directory), in particular t
         </context-group>
       </trans-unit>
       <trans-unit id="8953934448427251062" datatype="html">
-        <source>The <x id="START_LINK" ctype="x-a" equiv-text="&lt;a class=&quot;link-primary&quot; href=&quot;https://docs.joinpeertube.org/admin/privacy-guide#peertube-p2p-privacy&quot; target=&quot;_blank&quot;>"/>sharing system<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a>"/> implies that some technical information about your system (such as a public IP address) can be sent to other peers, but greatly helps to reduce server load.</source>
+        <source>The sharing system implies that some technical information about your system (such as a public IP address) can be sent to other peers, but greatly helps to reduce server load.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/shared/shared-user-settings/user-video-settings.component.html</context>
           <context context-type="linenumber">72,74</context>
